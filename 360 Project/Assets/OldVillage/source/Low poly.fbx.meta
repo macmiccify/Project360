@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: bac7843ce511cac4c8408f6960e13548
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_House_4_texture
+    second: {fileID: 2100000, guid: 0967d29abe70e944f9960db2af2a6f89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_House_5_texture
+    second: {fileID: 2100000, guid: d935519daac41a54a983fb7ea2a8a96c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_house_1_texture
+    second: {fileID: 2100000, guid: e16c9dc8da239cf4895b77b57a8e1bfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_house_2_texture
+    second: {fileID: 2100000, guid: 95b44e2b663bc124c9c02b3fef5ac888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_house_3_texture
+    second: {fileID: 2100000, guid: ff6c34ec47b099343975ef1450491ef2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boat_texture
+    second: {fileID: 2100000, guid: c9211dc9b92ed6149810975833a06ab8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box_texture
+    second: {fileID: 2100000, guid: 2076f0d0b0125d14380dd1a3b42ce0f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coppice_texture
+    second: {fileID: 2100000, guid: 38530d5ad18be45448ec393c16ec2d8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass_texture
+    second: {fileID: 2100000, guid: fbd80285bf1e5ed48964dc2fe8513daf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kerbstone_texture
+    second: {fileID: 2100000, guid: 5c2a4978a6b4c3940b96efdaece9df87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lantern_pole_texture
+    second: {fileID: 2100000, guid: 3dbbe8f7edca1414db86d03e0353fd36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lotus_leaf_texture
+    second: {fileID: 2100000, guid: 1475d429887991e48a2041c652ba3793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Other_3_texture
+    second: {fileID: 2100000, guid: 5ed66361515e3c14aa7c067f4dc6aaa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Other_4_texture
+    second: {fileID: 2100000, guid: 78d658320feebf546ad1595f98647e31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Other_5_texture
+    second: {fileID: 2100000, guid: e9f515cbf26308e4da00bbd14775d88c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Other_texture
+    second: {fileID: 2100000, guid: 2c2dc0eb6cb99f7479266514af932918, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rickshaw_texture
+    second: {fileID: 2100000, guid: 151d7a02e2d3c134cb2ae3cef3182ba7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rock_texture
+    second: {fileID: 2100000, guid: 443ebc91d1bee084783e9d83ad2f94d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Root_texture
+    second: {fileID: 2100000, guid: 74f2ce237cf2fe646a76f1816d9b2d64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rotating_bowl_texture
+    second: {fileID: 2100000, guid: e4b7a760e2191ef48bf263873eeb1f71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soil_texture
+    second: {fileID: 2100000, guid: f46f8468b38bec442a021f3b99523287, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_1_texture
+    second: {fileID: 2100000, guid: 3b921d4673c0a684e8a29b0dbc665f87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_2_texture
+    second: {fileID: 2100000, guid: 91168e6adb794484c930ed9f8061b865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_texture
+    second: {fileID: 2100000, guid: 07c99fca0eae93044ae21deb457725c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_1_texture
+    second: {fileID: 2100000, guid: cfc4e15ba0618264887c97d9306038a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_2_texture
+    second: {fileID: 2100000, guid: 2bc44e8344e450f4d9c0b71df7a379b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_3_texture
+    second: {fileID: 2100000, guid: 016aa655d3fa2a246961560bd0563934, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_4_texture
+    second: {fileID: 2100000, guid: 7d0e5769b9cc5a249ad44161c4b01a80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_5_texture
+    second: {fileID: 2100000, guid: 821b13ef724737444a4c3028d453a0de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_floor_1_texture
+    second: {fileID: 2100000, guid: d9606a9a72121704eae51e38a7450288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_floor_2_texture
+    second: {fileID: 2100000, guid: f83ef22a661b8e04ba419fd33f08a0ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_floor_3_texture
+    second: {fileID: 2100000, guid: 7cfb4a9929f28114788bd79eb4571a38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_floor_4_texture
+    second: {fileID: 2100000, guid: fcc0d99db8a4b724e9ebfba9a56c5ae1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_texture
+    second: {fileID: 2100000, guid: 4ba8809663063464f8c22f8661a1eb1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wooden_pole_texture
+    second: {fileID: 2100000, guid: 5df4e985c59ceaa4990bfc534812649d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wooden_railings_1_texture
+    second: {fileID: 2100000, guid: 8f8e3762e1f4bb340aa6831513b6cbae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wooden_railings_3_texture
+    second: {fileID: 2100000, guid: a56cc60a52443e741846e2629bdf86c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wooden_railings_4_texture
+    second: {fileID: 2100000, guid: d5eb83d03bdca4e4486a251dfa23310b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
